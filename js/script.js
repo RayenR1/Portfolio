@@ -84,7 +84,7 @@ ScrollReveal().reveal('.home-content h1,.about-img', { origin: 'left' });
 ScrollReveal().reveal('.home-content p,.about-content', { origin: 'right' });
 
 const typed = new Typed('.multiple-text', {
-    strings: ['Data science student', 'software Developer', 'fullstack Developer'],
+    strings: ['Data science student', 'Actuaire', 'fullstack Developer', 'Machine Learning Engineer'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
